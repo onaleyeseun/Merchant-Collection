@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Insurance Claim Portal" verbose="2">\
+
+    <listeners>
+        <listener class-name="utils.listeners.TestListener"/>
+        <listener class-name="utils.listeners.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="Sample test" parallel="false">
+        <classes>
+            <class name="Merchant_Collection_Portal.Tests.SampleTests" />
+            <class name="Merchant_Collection_Portal.Tests.SignUpTest" />
+        </classes>
+    </test>
+</suite>

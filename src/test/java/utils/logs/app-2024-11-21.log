@@ -1,0 +1,10 @@
+[INFO ] 2024-11-21 19:54:10.281 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-21 19:54:14.490 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-21 19:54:17.798 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-21 19:54:21.321 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-21 19:54:22.149 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-21 19:54:22.150 [main] TestListener - verifySignUpFunctionality test is starting...
+[ERROR] 2024-11-21 19:56:22.202 [main] TestListener - verifySignUpFunctionality test has failed.
+[ERROR] 2024-11-21 19:56:22.345 [main] TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.partialLinkText: Sign' (tried for 40 second(s) with 500 milliseconds interval)
+[ERROR] 2024-11-21 19:56:22.346 [main] TestListener - Failing at: org.openqa.selenium.support.ui.WebDriverWait.timeoutException (Line 84)
+[INFO ] 2024-11-21 19:56:22.581 [main] TestListener - Sample test tests are ending

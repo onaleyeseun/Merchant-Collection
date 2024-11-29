@@ -1,0 +1,113 @@
+[INFO ] 2024-11-23 09:09:27.172 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 09:09:32.260 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 09:09:35.787 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-23 09:09:40.348 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-23 09:09:41.474 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-23 09:09:41.475 [main] TestListener - verifySignUpFunctionality test is starting...
+[ERROR] 2024-11-23 09:11:41.601 [main] TestListener - verifySignUpFunctionality test has failed.
+[ERROR] 2024-11-23 09:11:41.716 [main] TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.partialLinkText: Sign' (tried for 40 second(s) with 500 milliseconds interval)
+[ERROR] 2024-11-23 09:11:41.717 [main] TestListener - Failing at: org.openqa.selenium.support.ui.WebDriverWait.timeoutException (Line 84)
+[INFO ] 2024-11-23 09:11:41.729 [main] TestListener - verifyAlreadyExistingAccount test is starting...
+[ERROR] 2024-11-23 09:13:41.873 [main] TestListener - verifyAlreadyExistingAccount test has failed.
+[ERROR] 2024-11-23 09:13:41.956 [main] TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.partialLinkText: Sign' (tried for 40 second(s) with 500 milliseconds interval)
+[ERROR] 2024-11-23 09:13:41.956 [main] TestListener - Failing at: org.openqa.selenium.support.ui.WebDriverWait.timeoutException (Line 84)
+[INFO ] 2024-11-23 09:13:41.959 [main] TestListener - verifyBlankFormSubmissionShowsErrors test is starting...
+[ERROR] 2024-11-23 09:15:42.093 [main] TestListener - verifyBlankFormSubmissionShowsErrors test has failed.
+[ERROR] 2024-11-23 09:15:42.179 [main] TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.partialLinkText: Sign' (tried for 40 second(s) with 500 milliseconds interval)
+[ERROR] 2024-11-23 09:15:42.179 [main] TestListener - Failing at: org.openqa.selenium.support.ui.WebDriverWait.timeoutException (Line 84)
+[ERROR] 2024-11-23 09:15:42.186 [main] TestListener - verifyPasswordValidation test has failed.
+[ERROR] 2024-11-23 09:15:42.277 [main] TestListener - Failure reason: 
+Method public void Merchant_Collection_Portal.Tests.SignUpTest.verifyPasswordValidation(java.lang.String,java.lang.String,java.lang.reflect.Method) requires a @DataProvider named : passwordValidationData
+[ERROR] 2024-11-23 09:15:42.277 [main] TestListener - Failing at: org.testng.internal.Parameters.findDataProvider (Line 532)
+[INFO ] 2024-11-23 09:15:42.504 [main] TestListener - Sample test tests are ending
+[INFO ] 2024-11-23 09:22:45.722 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 09:22:50.572 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 09:22:53.876 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-23 09:22:57.981 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-23 09:22:58.925 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-23 09:22:58.927 [main] TestListener - verifyAlreadyExistingAccount test is starting...
+[INFO ] 2024-11-23 09:24:48.560 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 09:24:54.389 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 09:24:57.740 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-23 09:25:01.829 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-23 09:25:02.655 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-23 09:25:02.658 [main] TestListener - verifyAlreadyExistingAccount test is starting...
+[INFO ] 2024-11-23 09:25:04.947 [main] TestListener - verifyAlreadyExistingAccount test has succeeded.
+[INFO ] 2024-11-23 09:25:04.949 [main] TestListener - verifyBlankFormSubmissionShowsErrors test is starting...
+[INFO ] 2024-11-23 09:25:05.245 [main] TestListener - verifyBlankFormSubmissionShowsErrors test has succeeded.
+[ERROR] 2024-11-23 09:25:05.249 [main] TestListener - verifyPasswordValidation test has failed.
+[ERROR] 2024-11-23 09:25:05.346 [main] TestListener - Failure reason: 
+Method public void Merchant_Collection_Portal.Tests.SignUpTest.verifyPasswordValidation(java.lang.String,java.lang.String,java.lang.reflect.Method) requires a @DataProvider named : passwordValidationData
+[ERROR] 2024-11-23 09:25:05.346 [main] TestListener - Failing at: org.testng.internal.Parameters.findDataProvider (Line 532)
+[INFO ] 2024-11-23 09:25:05.488 [main] TestListener - Sample test tests are ending
+[INFO ] 2024-11-23 09:27:41.427 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 09:27:46.340 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 09:27:49.659 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-23 09:27:53.658 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-23 09:27:54.480 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-23 09:27:54.482 [main] TestListener - verifySignUpFunctionality test is starting...
+[ERROR] 2024-11-23 09:27:55.058 [main] TestListener - verifySignUpFunctionality test has failed.
+[ERROR] 2024-11-23 09:27:55.149 [main] TestListener - Failure reason: Keys to send should be a not null CharSequence
+[ERROR] 2024-11-23 09:27:55.149 [main] TestListener - Failing at: org.openqa.selenium.remote.RemoteWebElement.sendKeys (Line 96)
+[INFO ] 2024-11-23 09:27:55.158 [main] TestListener - verifyAlreadyExistingAccount test is starting...
+[INFO ] 2024-11-23 09:29:33.515 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 09:29:45.232 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 09:29:48.585 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-23 09:29:52.292 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-23 09:29:53.117 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-23 09:29:53.120 [main] TestListener - verifySignUpFunctionality test is starting...
+[ERROR] 2024-11-23 09:29:53.704 [main] TestListener - verifySignUpFunctionality test has failed.
+[ERROR] 2024-11-23 09:29:53.837 [main] TestListener - Failure reason: Keys to send should be a not null CharSequence
+[ERROR] 2024-11-23 09:29:53.837 [main] TestListener - Failing at: org.openqa.selenium.remote.RemoteWebElement.sendKeys (Line 96)
+[INFO ] 2024-11-23 09:29:53.845 [main] TestListener - verifyAlreadyExistingAccount test is starting...
+[ERROR] 2024-11-23 09:31:53.900 [main] TestListener - verifyAlreadyExistingAccount test has failed.
+[ERROR] 2024-11-23 09:31:54.006 [main] TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.partialLinkText: Sign' (tried for 40 second(s) with 500 milliseconds interval)
+[ERROR] 2024-11-23 09:31:54.006 [main] TestListener - Failing at: org.openqa.selenium.support.ui.WebDriverWait.timeoutException (Line 84)
+[INFO ] 2024-11-23 09:31:54.009 [main] TestListener - verifyBlankFormSubmissionShowsErrors test is starting...
+[ERROR] 2024-11-23 09:33:54.142 [main] TestListener - verifyBlankFormSubmissionShowsErrors test has failed.
+[ERROR] 2024-11-23 09:33:54.237 [main] TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.partialLinkText: Sign' (tried for 40 second(s) with 500 milliseconds interval)
+[ERROR] 2024-11-23 09:33:54.237 [main] TestListener - Failing at: org.openqa.selenium.support.ui.WebDriverWait.timeoutException (Line 84)
+[ERROR] 2024-11-23 09:33:54.242 [main] TestListener - verifyPasswordValidation test has failed.
+[ERROR] 2024-11-23 09:33:54.322 [main] TestListener - Failure reason: 
+Method public void Merchant_Collection_Portal.Tests.SignUpTest.verifyPasswordValidation(java.lang.String,java.lang.String,java.lang.reflect.Method) requires a @DataProvider named : passwordValidationData
+[ERROR] 2024-11-23 09:33:54.322 [main] TestListener - Failing at: org.testng.internal.Parameters.findDataProvider (Line 532)
+[INFO ] 2024-11-23 09:33:54.549 [main] TestListener - Sample test tests are ending
+[INFO ] 2024-11-23 09:36:38.497 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 09:36:43.054 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 09:36:46.366 [main] TestListener - sample_test test has succeeded.
+[INFO ] 2024-11-23 09:36:50.621 [main] TestListener - verifySignUpPageLoads test is starting...
+[INFO ] 2024-11-23 09:36:51.648 [main] TestListener - verifySignUpPageLoads test has succeeded.
+[INFO ] 2024-11-23 09:36:51.650 [main] TestListener - verifyAlreadyExistingAccount test is starting...
+[INFO ] 2024-11-23 09:36:53.706 [main] TestListener - verifyAlreadyExistingAccount test has succeeded.
+[INFO ] 2024-11-23 09:36:53.708 [main] TestListener - verifyBlankFormSubmissionShowsErrors test is starting...
+[ERROR] 2024-11-23 09:36:54.013 [main] TestListener - verifyBlankFormSubmissionShowsErrors test has failed.
+[ERROR] 2024-11-23 09:36:54.125 [main] TestListener - Failure reason: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d8c3fb7fcaed2bd85ca4532921202648, isElementDisplayed {id=f.BADF4A36B8601ECF98D27BDF91997D08.d.B9DFF8A6BD23BC2B5FEED07B054D04AB.e.96}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\OLUWAS~1.ONA\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58990}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58990/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d8c3fb7fcaed2bd85ca4532921202648)] -> css selector: .text-red-500.text-sm]
+Session ID: d8c3fb7fcaed2bd85ca4532921202648
+[ERROR] 2024-11-23 09:36:54.126 [main] TestListener - Failing at: jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0 (Line -2)
+[ERROR] 2024-11-23 09:36:54.139 [main] TestListener - verifyPasswordValidation test has failed.
+[ERROR] 2024-11-23 09:36:54.230 [main] TestListener - Failure reason: 
+Method public void Merchant_Collection_Portal.Tests.SignUpTest.verifyPasswordValidation(java.lang.String,java.lang.String,java.lang.reflect.Method) requires a @DataProvider named : passwordValidationData
+[ERROR] 2024-11-23 09:36:54.230 [main] TestListener - Failing at: org.testng.internal.Parameters.findDataProvider (Line 532)
+[INFO ] 2024-11-23 09:36:54.462 [main] TestListener - Sample test tests are ending
+[INFO ] 2024-11-23 11:10:12.143 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 11:10:15.953 [main] TestListener - Sample test tests are starting
+[INFO ] 2024-11-23 11:13:14.779 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 11:13:14.780 [main] TestListener - sample_test test is skipped
+[ERROR] 2024-11-23 11:13:15.227 [main] TestListener - sample_test test has failed.
+[INFO ] 2024-11-23 11:13:18.223 [main] TestListener - sample_test test is starting...
+[INFO ] 2024-11-23 11:13:18.223 [main] TestListener - sample_test test is skipped
+[ERROR] 2024-11-23 11:13:18.591 [main] TestListener - sample_test test has failed.
+[ERROR] 2024-11-23 11:13:50.718 [main] TestListener - Failure reason: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "utils.extentReports.ExtentTestManager.getTest()" is null
+[ERROR] 2024-11-23 11:13:50.718 [main] TestListener - Failing at: utils.listeners.TestListener.onTestSkipped (Line 85)
+[INFO ] 2024-11-23 11:13:50.720 [main] TestListener - Sample test tests are ending
+[ERROR] 2024-11-23 11:15:06.934 [main] TestListener - Failure reason: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "utils.extentReports.ExtentTestManager.getTest()" is null
+[ERROR] 2024-11-23 11:15:06.935 [main] TestListener - Failing at: utils.listeners.TestListener.onTestSkipped (Line 85)
+[INFO ] 2024-11-23 11:15:06.937 [main] TestListener - Sample test tests are ending
